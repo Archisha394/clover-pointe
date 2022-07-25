@@ -7,10 +7,7 @@ html{
   box-sizing: border-box;
   font-family: "Baloo 2", cursive;
 }
-a{
-  text-decoration: none;
-}
-.wrapper{
+wrapper{
   position: absolute;
   bottom: 30px;
   left: 30px;
@@ -70,6 +67,9 @@ a{
 }
 .buttons a{
   color: #FCBA7F;
+}
+a{
+  text-decoration: none;
 }
 /* navvbar+ intro */
 .logo{
