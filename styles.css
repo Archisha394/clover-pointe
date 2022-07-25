@@ -7,7 +7,7 @@ html{
   box-sizing: border-box;
   font-family: "Baloo 2", cursive;
 }
-wrapper{
+.wrapper{
   position: absolute;
   bottom: 30px;
   left: 30px;
